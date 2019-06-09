@@ -8,3 +8,5 @@ by Zhihua Ma, Yishu Xue, and Guanyu Hu.
 
 `Bayesian_computation.md` contains a detailed explanation of the code, with the code broken
 into pieces for ease of exposition.
+
+`CountyCentroids.R` lists out the longitude and latitude of county centroids in Louisiana.
